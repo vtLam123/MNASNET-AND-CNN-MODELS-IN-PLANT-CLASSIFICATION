@@ -1,6 +1,7 @@
 # MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION
 
 **Sơ đồ:**
+
 Sơ đồ quá trình xây dựng bộ dữ liệu lá cây được mô tả lại
 <img src="image/Tiền xử lý RGB.png">
 
@@ -8,6 +9,7 @@ Sơ đồ quá trình xây dựng bộ dữ liệu lá cây chứa đầy đủ 
 <img src="image/Tiền xử lý Gray.png">
 
 **Thuật toán:**
+
 Thuật toán xây dựng bộ dữ liệu lá cây chứa đầy đủ thông tin
 <img src="image/RGB_algorithm.png">
 
@@ -16,6 +18,7 @@ Thuật toán xây dựng bộ dữ liệu mô tả lại lá cây
 
 
 **Dữ liệu xây dựng:**
+
 Bộ dữ liệu lá cây chứa đầy đủ thông tin: [https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/leaves](https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/leaves)
 
 Bộ dữ liệu mô tả lại lá cây: [https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/segmented](https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/segmented)
