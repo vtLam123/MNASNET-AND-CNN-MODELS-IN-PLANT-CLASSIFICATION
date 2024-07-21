@@ -1,23 +1,29 @@
-![image](https://github.com/user-attachments/assets/7269bd53-50e6-49e2-8123-7840143ca1db)# MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION
+# MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION
 
 **Sơ đồ:**
-Sơ đồ quá trình xây dựng bộ dữ liệu lá cây chứa đầy đủ thông tin
-<img src="image/Tiền xử lý Gray.png">
-
 Sơ đồ quá trình xây dựng bộ dữ liệu lá cây được mô tả lại
 <img src="image/Tiền xử lý RGB.png">
 
+Sơ đồ quá trình xây dựng bộ dữ liệu lá cây chứa đầy đủ thông tin
+<img src="image/Tiền xử lý Gray.png">
+
 **Thuật toán:**
+Thuật toán xây dựng bộ dữ liệu lá cây chứa đầy đủ thông tin
+<img src="image/RGB_algorithm.png">
+
+Thuật toán xây dựng bộ dữ liệu mô tả lại lá cây
+<img src="image/Gray_algorithm.png">
 
 **Dữ liệu sưu tầm:**
 
+
 **Dữ liệu xây dựng:**
+
 
 **Kết quả thực nghiệm:**
 
 Kết quả về độ chính xác và thời gian kiểm tra trung bình trên từng mẫu cho dữ liệu đầy đủ thông tin lá cây
 (với “-” sử dụng cấu trúc của mô hình gốc)
-
 | STT | Model       | Kernel lớp đầu | Padding lớp đầu | Accuracy (%) | Latency (ms) | Epoch có độ chính xác lớn nhất khi học |
 |----|-------------|-----------------|-----------------|--------------|--------------|---------------------------------------|
 | 1  | VGG19       | -               | -               | 87.55        | 0.03         | 54                                    |
