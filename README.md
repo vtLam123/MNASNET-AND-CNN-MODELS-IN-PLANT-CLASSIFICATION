@@ -16,7 +16,6 @@ Thuật toán xây dựng bộ dữ liệu lá cây chứa đầy đủ thông t
 Thuật toán xây dựng bộ dữ liệu mô tả lại lá cây
 <img src="image/Gray_algorithm.png">
 
-
 **Dữ liệu xây dựng:**
 
 Bộ dữ liệu lá cây chứa đầy đủ thông tin: [https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/leaves](https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/leaves)
