@@ -61,4 +61,4 @@ Minh chứng thực nghiệm của MNASNet_3 trên tập dữ liệu ảnh mô t
 <img src="image/gray-mnasnet_3.png">
 
 Minh chứng thực nghiệm của MNASNet_7 trên tập dữ liệu ảnh mô tả lại hình dáng lá cây
-<img src="image/gray-mnasnet_7">
+<img src="image/gray-mnasnet_7.png">
