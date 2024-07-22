@@ -51,6 +51,9 @@ Kết quả về độ chính xác và thời gian kiểm tra trung bình trên 
 
 **Một số minh chứng thực nghiệm**
 
+Minh chứng thực nghiệm của MNASNet_3 trên tập dữ liệu ảnh đầy đủ thông tin lá cây
+<img src="image/MNASNet_3.png">
+
 Minh chứng thực nghiệm của ShuffleNet_V2 trên tập dữ liệu ảnh đầy đủ thông tin lá cây
 <img src="image/ShuffleNet_V2.png">
 
