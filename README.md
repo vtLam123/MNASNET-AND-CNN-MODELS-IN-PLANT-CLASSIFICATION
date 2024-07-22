@@ -50,6 +50,7 @@ Kết quả về độ chính xác và thời gian kiểm tra trung bình trên 
 | 6  | MNASNet_11  | 11x11           | 5x5             | 77.05        | 0.035        | 25                                    |
 
 **Một số minh chứng thực nghiệm**
+
 Minh chứng thực nghiệm của MNASNet_3 trên tập dữ liệu ảnh đầy đủ thông tin lá cây
 <img src="image/MNASNet_3.png">
 
