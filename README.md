@@ -18,7 +18,7 @@ Thuật toán xây dựng bộ dữ liệu mô tả lại lá cây
 
 **Dữ liệu xây dựng:**
 
-Bộ dữ liệu lá cây chứa đầy đủ thông tin: [https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/dataset/leaves](https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/datasets/leaves)
+Bộ dữ liệu lá cây chứa đầy đủ thông tin: [leaves](https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/leaves)
 
 Bộ dữ liệu mô tả lại lá cây: [segmented](https://github.com/vtLam123/MNASNET-AND-CNN-MODELS-IN-PLANT-CLASSIFICATION/tree/main/segmented)
 
