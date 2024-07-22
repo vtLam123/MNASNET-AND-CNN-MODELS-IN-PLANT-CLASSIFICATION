@@ -3,18 +3,18 @@
 **Sơ đồ:**
 
 Sơ đồ quá trình xây dựng bộ dữ liệu lá cây được mô tả lại
-<img src="image/Tiền xử lý RGB.png">
+<img src="images/Tiền xử lý RGB.png">
 
 Sơ đồ quá trình xây dựng bộ dữ liệu lá cây chứa đầy đủ thông tin
-<img src="image/Tiền xử lý Gray.png">
+<img src="imagess/Tiền xử lý Gray.png">
 
 **Thuật toán:**
 
 Thuật toán xây dựng bộ dữ liệu lá cây chứa đầy đủ thông tin
-<img src="image/RGB_algorithm.png">
+<img src="imagess/RGB_algorithm.png">
 
 Thuật toán xây dựng bộ dữ liệu mô tả lại lá cây
-<img src="image/Gray_algorithm.png">
+<img src="imagess/Gray_algorithm.png">
 
 **Dữ liệu xây dựng:**
 
@@ -52,13 +52,13 @@ Kết quả về độ chính xác và thời gian kiểm tra trung bình trên 
 **Một số minh chứng thực nghiệm**
 
 Minh chứng thực nghiệm của MNASNet_3 trên tập dữ liệu ảnh đầy đủ thông tin lá cây
-<img src="image/MNASNet_3.png">
+<img src="images/MNASNet_3.png">
 
 Minh chứng thực nghiệm của ShuffleNet_V2 trên tập dữ liệu ảnh đầy đủ thông tin lá cây
-<img src="image/ShuffleNet_V2.png">
+<img src="images/ShuffleNet_V2.png">
 
 Minh chứng thực nghiệm của MNASNet_3 trên tập dữ liệu ảnh mô tả lại hình dáng lá cây
-<img src="image/gray-mnasnet_3.png">
+<img src="images/gray-mnasnet_3.png">
 
 Minh chứng thực nghiệm của MNASNet_7 trên tập dữ liệu ảnh mô tả lại hình dáng lá cây
-<img src="image/gray-mnasnet_7.png">
+<img src="images/gray-mnasnet_7.png">
