@@ -48,3 +48,14 @@ Kết quả về độ chính xác và thời gian kiểm tra trung bình trên 
 | 4  | MNASNet_7   | 7x7             | 3x3             | 79.37        | 0.036        | 26                                    |
 | 5  | MNASNet_9   | 9x9             | 4x4             | 77.94        | 0.034        | 27                                    |
 | 6  | MNASNet_11  | 11x11           | 5x5             | 77.05        | 0.035        | 25                                    |
+
+**Một số minh chứng thực nghiệm**
+
+Minh chứng thực nghiệm của ShuffleNet_V2 trên tập dữ liệu ảnh đầy đủ thông tin lá cây
+<img src="image/ShuffleNet_V2.png">
+
+Minh chứng thực nghiệm của MNASNet_3 trên tập dữ liệu ảnh mô tả lại hình dáng lá cây
+<img src="image/gray-mnasnet_3.png">
+
+Minh chứng thực nghiệm của MNASNet_7 trên tập dữ liệu ảnh mô tả lại hình dáng lá cây
+<img src="image/gray-mnasnet_7.png">
