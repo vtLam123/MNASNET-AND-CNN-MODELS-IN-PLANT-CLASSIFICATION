@@ -6,15 +6,15 @@ Sơ đồ quá trình xây dựng bộ dữ liệu lá cây được mô tả l�
 <img src="images/Tiền xử lý RGB.png">
 
 Sơ đồ quá trình xây dựng bộ dữ liệu lá cây chứa đầy đủ thông tin
-<img src="imagess/Tiền xử lý Gray.png">
+<img src="images/Tiền xử lý Gray.png">
 
 **Thuật toán:**
 
 Thuật toán xây dựng bộ dữ liệu lá cây chứa đầy đủ thông tin
-<img src="imagess/RGB_algorithm.png">
+<img src="images/RGB_algorithm.png">
 
 Thuật toán xây dựng bộ dữ liệu mô tả lại lá cây
-<img src="imagess/Gray_algorithm.png">
+<img src="images/Gray_algorithm.png">
 
 **Dữ liệu xây dựng:**
 
